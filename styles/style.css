@@ -1,0 +1,87 @@
+/* bangladesh  style */
+.bangladesh{
+    color: black;
+}
+.new bangladesh {
+    font-weight: 800;
+    color: black;
+     
+}
+.main{
+    display: flex;
+}
+.properties{
+    margin: 30px;
+    padding: 20px 50px;
+}
+/* button style */
+.btn{
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+.secondary bg{
+    background-color: lightskyblue;
+    
+}
+/* item styles */
+.items{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+.item{
+    padding: 30px;
+    box-shadow: 0px 6px 20px 0px;
+    background-color: lightskyblue;
+    border-radius: 5px;
+}
+/* recent news style */
+.recent news{
+    display: flex;
+}
+.recent{
+    padding: 12px;
+    background-color:lightgray;
+
+}
+/* amount styles */
+.amount{
+    border: 2px solid  rgb(110, 128, 110);
+    background-color: aqua;
+    padding: 20px;
+    font-size: 24px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+.amounts{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* title */
+ .title{
+
+   font-weight: 800;
+   margin: 10px 500px;
+}
+/* taka style */
+ .taka{
+    margin: 10px 500px;
+    width: max-content;
+}
+/* button style */
+.btn1{
+
+    background-color: lightgreen;
+    border-radius: 5px;
+    margin: 5px 550px;
+   
+}
+/* description style */
+.description{
+    margin: 10px 110px;
+}
+.recent new {
+    display: flex;
+}
